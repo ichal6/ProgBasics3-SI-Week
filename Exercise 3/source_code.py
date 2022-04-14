@@ -1,0 +1,14 @@
+#1
+print(float("8.8"))
+#2
+print(round(8.8))
+#3
+print(round(float("8.8")))
+#4
+print(str(8.8))
+#5
+print(str(8))
+#6
+print(float(8))
+#7
+print(bool(8))
